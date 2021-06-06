@@ -43,3 +43,6 @@ D:\CursoC#\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\C
 D:\CursoC#\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Delete.cshtml.g.cs
 D:\CursoC#\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Details.cshtml.g.cs
 D:\CursoC#\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Edit.cshtml.g.cs
+D:\CursoC#\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\SaleRecords\GroupingSearch.cshtml.g.cs
+D:\CursoC#\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\SaleRecords\Index.cshtml.g.cs
+D:\CursoC#\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\SaleRecords\SimpleSearch.cshtml.g.cs
